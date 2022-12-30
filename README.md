@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100"/>
  <div id="badges">
-  <a href="www.linkedin.com/in/abraar-patel2301">
+  <a href="https://www.linkedin.com/in/abraar-patel2301/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
 </div>
@@ -27,7 +27,7 @@ I am an aspiring Data Scientist and Software Engineer <img src="https://media.gi
 
 - :zap: In my free time, I play cricket, football and develop tech projects. I also love to help people.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abraar-patel2301)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraar-patel2301/)
 
 ---
 
